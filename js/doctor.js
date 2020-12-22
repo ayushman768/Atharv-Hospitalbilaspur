@@ -16,7 +16,7 @@ var d = function myart() {
         this.qualification = qualification;
         this.contact = contact;
     }
-    var dr01 = new doctor('Dr. Moniaka Mahilang', 'MBBS,MS(Opthalmology)', '77088-6363');
+    var dr01 = new doctor('Dr. Monika Mahilang', 'MBBS,MS(Opthalmology)', '77088-6363');
     var dr02 = new doctor('Dr. Deepak Kumar', 'MBBS,MD (Paediatrics)', '84638-23155');
 
     arr = [dr01, dr02];
